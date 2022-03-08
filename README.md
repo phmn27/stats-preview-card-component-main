@@ -32,7 +32,7 @@ background: linear-gradient(90deg, rgba(85,0,138,0.5411298308385855) 0%, rgba(91
 
 - [Clamp Generator](https://clamp.font-size.app) - Clamp generator allows you to generate the size of your font according to the size of your device (viewport). It's very convenient to write less code.
 
-
+- [Flex Basics](https://clamp.font-size.app) - Clamp generator allows you to generate the size of your font according to the size of your device (viewport). It's very convenient to write less code.
 
 
 ## Author
